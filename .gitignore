@@ -1,0 +1,10 @@
+
+
+#Ignore vscode AI rules
+.github/instructions/codacy.instructions.md
+
+# dependencies
+node_modules/
+
+# macOS
+.DS_Store

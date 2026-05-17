@@ -1,0 +1,8 @@
+{
+  "name": "Mr South",
+  "description": "Premium modern ecommerce application with high-end fashion products, secure checkout, and order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
